@@ -1,5 +1,5 @@
 =========
-myproject
+Cool Project That I Will Succeed At
 =========
 
 
